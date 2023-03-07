@@ -6,7 +6,8 @@
   - [x] 메서드 작게 하면서 구현
 
 - [x] 2단계
-  - [ ] naming convention 학습
+  - [ ] 리팩토링 학습
+  - [x] naming convention 학습
   - [x] 들여쓰기 depth 1단계로 구현
 
 - [ ] 3단계
@@ -16,6 +17,14 @@
 - [ ] 4단계
   - [ ] 단위 테스트 학습
   - [ ] 단위 테스트 구현
+
+
+---
+## 리팩토링
+
+
+## naming convention
+
 
 
 - Last Update: 2023-03-06

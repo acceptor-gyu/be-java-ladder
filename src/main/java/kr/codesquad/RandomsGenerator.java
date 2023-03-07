@@ -1,7 +1,5 @@
 package kr.codesquad;
 
-import java.util.Arrays;
-
 public class RandomsGenerator {
 
     private int participants;

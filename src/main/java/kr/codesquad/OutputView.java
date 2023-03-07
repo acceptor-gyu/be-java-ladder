@@ -1,7 +1,5 @@
 package kr.codesquad;
 
-import java.util.Arrays;
-
 public class OutputView {
 
     private static StringBuilder sb = new StringBuilder();
